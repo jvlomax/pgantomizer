@@ -1,17 +1,14 @@
 pgantomizer
 ===========
 
-.. image:: https://travis-ci.org/asgeirrr/pgantomizer.svg?branch=master
-    :target: https://travis-ci.org/asgeirrr/pgantomizer
+.. image:: https://travis-ci.org/jvlomax/pgantomizer.svg?branch=master
+    :target: https://travis-ci.org/jvlomax/pgantomizer
 
-.. image:: https://coveralls.io/repos/github/asgeirrr/pgantomizer/badge.svg?branch=master
-    :target: https://coveralls.io/github/asgeirrr/pgantomizer
+.. image:: https://coveralls.io/repos/github/jvlomax/pgantomizer/badge.svg?branch=master
+    :target: https://coveralls.io/github/jvlomax/pgantomizer
 
 .. image:: https://img.shields.io/badge/License-BSD%203--Clause-blue.svg
-    :target: https://github.com/asgeirrr/pgantomizer/blob/master/LICENSE
-
-.. image:: https://badge.fury.io/py/pgantomizer.svg
-    :target: https://badge.fury.io/py/pgantomizer
+    :target: https://github.com/jvlomax/pgantomizer/blob/master/LICENSE
 
 Anonymize data in your PostgreSQL dababase with ease. Anonymization is handy if you need to provide data to
 people that should not have access to the personal information of the users.
